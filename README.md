@@ -34,4 +34,6 @@ python blackjack.py
 ***OR***
 Use the exe file from the releases section (much better that way P.S. that can only run on windows)
 
+### (P.S the original version was supposed to be in R however, it didnt really work well soo i swtiched to python)
+
 
